@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
+// eslint-disable-next-line no-unused-vars
 import logo from '../logo.svg'
 import styled from 'styled-components';
 
@@ -10,7 +11,7 @@ export default class Navbar extends Component {
         <nav className = "navbar navbar-expand-sm bg-secondary navbar-dark px-sm-5">
             <Link to='/' >
                
-            <i class="fas fa-home"></i>
+            <i className="fas fa-home"></i>
             </Link>
             <ul className="navbar-nav align-items-center">
                 <li className="nav-item ml-5">
