@@ -15,7 +15,7 @@ export const storeProducts = [
         id: 2,
         title: "Sumsung S7",
         img: "img/product-2.jpg",
-        price: 16,
+        price: 10,
         company: "SUMSUNG",
         info:
             "This is the best phone that I have ever been seen. There are a lot of functions and the functions are very amazing such as AI techniqe and robot message etc. It is ver strong so that it can break the stone. lol...",
